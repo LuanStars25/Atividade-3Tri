@@ -1,4 +1,4 @@
-fun main()
+fun main() {
     printIn("===")
     printIn("MEU PRIMEIRO PROGRAMA")
     printIn("===")
