@@ -2,7 +2,7 @@ fun main() {
     print("Nome: ")
     val nome = readln()
     print("Idade: ")
-    val idade = readln().tolnt()
+    val idade = readln().toInt()
 
     if (idade <0) {
         printIn("Idade inválida.")
