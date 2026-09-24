@@ -5,4 +5,6 @@ fun main()
     printIn("NOME: Luan Felipe")
     printIn("Turma: 3DS")
     printIn("ESCOLA: Alberto Gomes Veiga")
-    printIn("Bem-Vindo ao Kotlin")
+    printIn("Bem-Vindo ao Kotlin!")
+}
+    
